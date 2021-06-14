@@ -1,6 +1,6 @@
 ## Comparador de anagramas
 
-🔗 <a href="https://vercel.com/bielframos/comparador-de-anagramas"> Acesse a ferramenta </a>
+🔗 <a href="https://comparador-de-anagramas.vercel.app/"> Acesse a ferramenta </a>
 
 ## 📃 Sobre
 ---
